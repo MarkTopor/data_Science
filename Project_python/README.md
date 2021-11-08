@@ -2,21 +2,22 @@
 
 ## Оглавление
 
-[1.Описание проекта](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Описание-проекта)
+[1.Описание проекта](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Описание-проекта)
 
-[2. Какой кейс решаем?](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Какой-кейс-решаем)
+[2. Какой кейс решаем?](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Какой-кейс-решаем)
 
-[3. Краткая информация о данных](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Краткая-информация-о-данных)
+[3. Краткая информация о данных](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Краткая-информация-о-данных)
 
-[4. Этапы работы над проектом](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Этапы-работы-над-проектом)
+[4. Этапы работы над проектом](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Этапы-работы-над-проектом)
 
-[5. Результаты](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Результаты)
+[5. Результаты](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Результаты)
 
-[6. Выводы](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Выводы)
+[6. Выводы](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Выводы)
+
 ### Описание проекта
 Преобразование, исследование и очистка данных, а также разведывательный анализ представленных данных.
 
-:arrow_up: [к оглавлению](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -59,8 +60,11 @@
 **Что практиковалось**
 Учимся работать с реальными "сырыми" данными, методам получения информативных признаков из неинформативных или перегруженных признаков. Также анализ этих данных и нахождение выбросов.
 
-:arrow_up: [к оглавлению](https://github.com/MarkKorolev/sf_data_science/tree/main/Project%200/README.md#Оглавление)
+:arrow_up: [к оглавлению](https://github.com/MarkTopor/data_Science/blob/master/Project_python/README.md#Оглавление)
 
 ### Реультаты
 Была получена таблица с данными без явных аномалий (возраст соискателей 100 лет или опыт работы, превышающий или равный возрасту, аномально высокие зарплаты). 
 По таким данным уже можно будет строить модель для машинного обучения, которая  будет адекватно обучаться и выдавать верные результаты. 
+
+### Выводы
+Предобработка данных крайне необходима для получения данных, пригодных к анализу. Без такой обработки данные можно анализировать разве что вручную, но при таком объеме данных это невозможно сделать корректно. В ходе выполнения этой части проекта были отработаны навыки по обработке и визуализации данных, а также обрабокте пропусков и выбросов.
